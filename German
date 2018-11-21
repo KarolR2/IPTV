@@ -1,0 +1,96 @@
+#EXTM3U
+#EXTINF:-1 tvg-name="DE:Sat1" tvg-logo="http://logo.ndasat.com/iptv/images/14447_sat1.png" group-title="{BOUQUET_NAME}",DE:Sat1
+http://212.8.253.47:88/555155895930609/555155895930609/260
+#EXTINF:-1 tvg-name="DE:Sat1 Gold" tvg-logo="http://logo.ndasat.com/iptv/images/55122_sat1gold.jpg" group-title="{BOUQUET_NAME}",DE:Sat1 Gold
+http://212.8.253.47:88/555155895930609/555155895930609/3418
+#EXTINF:-1 tvg-name="DE:RTL" tvg-logo="http://logo.ndasat.com/iptv/images/21533_rtl.jpg" group-title="{BOUQUET_NAME}",DE:RTL
+http://212.8.253.47:88/555155895930609/555155895930609/252
+#EXTINF:-1 tvg-name="DE:RTL 2" tvg-logo="http://logo.ndasat.com/iptv/images/779_rtl2.png" group-title="{BOUQUET_NAME}",DE:RTL 2
+http://212.8.253.47:88/555155895930609/555155895930609/250
+#EXTINF:-1 tvg-name="DE:RTL Nitro" tvg-logo="http://logo.ndasat.com/iptv/images/9419_rtlnitro.png" group-title="{BOUQUET_NAME}",DE:RTL Nitro
+http://212.8.253.47:88/555155895930609/555155895930609/269
+#EXTINF:-1 tvg-name="DE:RTL Crime" tvg-logo="http://logo.ndasat.com/iptv/images/68067_rtlcrime.jpg" group-title="{BOUQUET_NAME}",DE:RTL Crime
+http://212.8.253.47:88/555155895930609/555155895930609/3417
+#EXTINF:-1 tvg-name="DE:Super RTL" tvg-logo="http://logo.ndasat.com/iptv/images/91051_superrtl.png" group-title="{BOUQUET_NAME}",DE:Super RTL
+http://212.8.253.47:88/555155895930609/555155895930609/251
+#EXTINF:-1 tvg-name="RTL Living" tvg-logo="" group-title="{BOUQUET_NAME}",RTL Living
+http://212.8.253.47:88/555155895930609/555155895930609/3606
+#EXTINF:-1 tvg-name="DE:RTL Passion" tvg-logo="http://logo.ndasat.com/iptv/images/5022_rtlpassion.jpg" group-title="{BOUQUET_NAME}",DE:RTL Passion
+http://212.8.253.47:88/555155895930609/555155895930609/3416
+#EXTINF:-1,De | Sat1 Hd
+http://formen1.com:8080/live/gzt03/35241113/1510.ts
+#EXTINF:-1,De | Sat.1 Gold
+http://formen1.com:8080/live/gzt03/35241113/4664.ts
+#EXTINF:-1,De | Sat.1 Nrw / Prosiebensat.1
+http://formen1.com:8080/live/gzt03/35241113/1418.ts
+#EXTINF:-1,De | Rtlii Hd
+http://formen1.com:8080/live/gzt03/35241113/1427.ts
+#EXTINF:-1,De | Rtl Living
+http://formen1.com:8080/live/gzt03/35241113/1508.ts
+#EXTINF:-1,De | Rtl Television
+http://formen1.com:8080/live/gzt03/35241113/1420.ts
+#EXTINF:-1,De | Rtl Crime / Sky
+http://formen1.com:8080/live/gzt03/35241113/1509.ts
+#EXTINF:-1,De | Rtl Hd / Cbc
+http://formen1.com:8080/live/gzt03/35241113/1513.ts
+#EXTINF:-1,De | Rtl2/cbc
+http://formen1.com:8080/live/gzt03/35241113/1512.ts
+#EXTINF:-1,De | Rtl Nitro/cbc
+http://formen1.com:8080/live/gzt03/35241113/1511.ts
+#EXTINF:-1,De | Rtlplus
+http://formen1.com:8080/live/gzt03/35241113/4667.ts
+#EXTINF:-1,De | Rtl Passion / Sky
+http://formen1.com:8080/live/gzt03/35241113/2626.ts
+#EXTINF:-1,De | Super Rtl
+http://formen1.com:8080/live/gzt03/35241113/1419.ts
+#EXTINF:-1,DE: Rtl HD
+http://viphdpro.eu:8080/live/new0303/bayidemo/8782.m3u8
+#EXTINF:-1,DE:RTL 2 HD
+http://viphdpro.eu:8080/live/new0303/bayidemo/8717.m3u8
+#EXTINF:-1,DE: Rtl 2 HD
+http://viphdpro.eu:8080/live/new0303/bayidemo/8781.m3u8
+#EXTINF:-1,DE:RTL Crime HD
+http://viphdpro.eu:8080/live/new0303/bayidemo/8718.m3u8
+#EXTINF:-1,DE:RTL HD
+http://viphdpro.eu:8080/live/new0303/bayidemo/8719.m3u8
+#EXTINF:-1,DE:RTL Nitro HD
+http://viphdpro.eu:8080/live/new0303/bayidemo/8720.m3u8
+#EXTINF:-1,DE:RTL Passion
+http://viphdpro.eu:8080/live/new0303/bayidemo/8721.m3u8
+#EXTINF:-1,DE:RTLplus
+http://viphdpro.eu:8080/live/new0303/bayidemo/8722.m3u8
+#EXTINF:-1,DE:Super RTL HD
+http://viphdpro.eu:8080/live/new0303/bayidemo/8759.m3u8
+#EXTINF:-1,DE: Super Rtl HD
+http://viphdpro.eu:8080/live/new0303/bayidemo/8785.m3u8
+
+#EXTINF:-1,DE: 3sat
+http://viphdpro.eu:8080/live/new0303/bayidemo/19150.m3u8
+#EXTINF:-1,DE: 3SAT HD
+http://viphdpro.eu:8080/live/new0303/bayidemo/19149.m3u8
+#EXTINF:-1,DE: RTL
+http://viphdpro.eu:8080/live/new0303/bayidemo/19174.m3u8
+#EXTINF:-1,DE: RTL Crime HD
+http://viphdpro.eu:8080/live/new0303/bayidemo/19074.m3u8
+#EXTINF:-1,DE: RTL II YOU HD
+http://viphdpro.eu:8080/live/new0303/bayidemo/19223.m3u8
+#EXTINF:-1,DE: RTL Living
+http://viphdpro.eu:8080/live/new0303/bayidemo/19075.m3u8
+#EXTINF:-1,DE: RTL NITRO
+http://viphdpro.eu:8080/live/new0303/bayidemo/19175.m3u8
+#EXTINF:-1,DE: RTL Passion
+http://viphdpro.eu:8080/live/new0303/bayidemo/19076.m3u8
+#EXTINF:-1,DE: RTL2
+http://viphdpro.eu:8080/live/new0303/bayidemo/19077.m3u8
+#EXTINF:-1,DE: Sat 1
+http://viphdpro.eu:8080/live/new0303/bayidemo/19176.m3u8
+#EXTINF:-1,DE: sat 1 emotions
+http://viphdpro.eu:8080/live/new0303/bayidemo/19177.m3u8
+#EXTINF:-1,DE: Sat 1 Gold
+http://viphdpro.eu:8080/live/new0303/bayidemo/19144.m3u8
+#EXTINF:-1,VIP DE: MTV HD 1080P DE
+http://viphdpro.eu:8080/live/new0303/bayidemo/18996.m3u8
+#EXTINF:-1,VIP DE: RTL Crime HD (1080P)
+http://viphdpro.eu:8080/live/new0303/bayidemo/18995.m3u8
+#EXTINF:-1,VIP DE: SAT.1 HD 1080P DE
+http://viphdpro.eu:8080/live/new0303/bayidemo/18994.m3u8
